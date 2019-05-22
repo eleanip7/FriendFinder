@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eleanip7/FriendFinder/issues"
   },
-  "homepage": "https://github.com/eleanip7/FriendFinder#readme"
+  "homepage": "https://github.com/eleanip7/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
